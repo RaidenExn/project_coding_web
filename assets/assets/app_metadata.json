@@ -1,0 +1,63 @@
+{
+    "developer": {
+        "name": "Abhijith S",
+        "role": "Lead Developer",
+        "email": "abhijithsskallara007@gmail.com",
+        "github": "https://github.com/RaidenExn",
+        "bio": "Medical coder and Resubmission officer. Passionate about creating efficient medical coding solutions and high-performance cross-platform applications."
+    },
+    "changelog": [
+        {
+            "version": "2.0.0",
+            "date": "Feb 2026",
+            "changes": [
+                "Major UI overhaul and component normalization",
+                "Standardized border radii and card elevations",
+                "Optimized search performance and code structure",
+                "New versioning system using PackageInfo"
+            ]
+        },
+        {
+            "version": "1.2.0",
+            "date": "Feb 2026",
+            "changes": [
+                "Added Drag-and-Drop session reordering",
+                "Implemented Primary Diagnosis verification rules",
+                "Added Billable vs Non-Specific status indicators",
+                "New Resource Information & About sections"
+            ]
+        },
+        {
+            "version": "1.1.0",
+            "date": "Jan 2026",
+            "changes": [
+                "Integrated Tables of Drugs and Neoplasms",
+                "Added Command Palette for rapid navigation",
+                "Implemented Excludes1 and Code First validation rules"
+            ]
+        },
+        {
+            "version": "1.0.0",
+            "date": "Dec 2025",
+            "changes": [
+                "Initial release with ICD-10-CM Tabular and Index browsing",
+                "Real-time search with ranking algorithm",
+                "Tabbed interface for multi-coding tasks"
+            ]
+        }
+    ],
+    "documentation": [
+        {
+            "title": "Navigation Guide",
+            "description": "Learn how to use the Search, Browse, and Index panes to find codes efficiently."
+        },
+        {
+            "title": "Rules & Validation",
+            "description": "Understanding Excludes1, Code First, and Sequencing warnings in your session."
+        },
+        {
+            "title": "Keyboard Shortcuts",
+            "description": "Master the app using Ctrl+K, Ctrl+F, and other productivity shortcuts."
+        }
+    ]
+}
